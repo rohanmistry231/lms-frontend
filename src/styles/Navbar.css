@@ -1,0 +1,47 @@
+/* src/styles/Navbar.css */
+
+.navbar {
+  padding: 0.5rem 1rem; /* Adjusted padding for a more compact navbar */
+  background-color: #ffffff; /* White background */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: Shadow for depth */
+}
+
+.navbar-brand {
+  font-size: 1.75rem; /* Larger font size */
+  font-weight: bold;
+  color: #007bff; /* Primary blue color */
+}
+
+.navbar-toggler {
+  border: none; /* Remove border from toggler */
+}
+
+.navbar-nav {
+  margin-top: auto; /* Ensure vertical centering */
+  margin-bottom: auto; /* Ensure vertical centering */
+}
+
+.navbar-nav .nav-link {
+  color: #333; /* Dark text color */
+  margin-left: 1rem; /* Space between links */
+  transition: color 0.3s ease; /* Smooth transition */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #007bff; /* Hover color */
+  text-decoration: none; /* Remove underline */
+}
+
+.form-control {
+  border: 1px solid #007bff; /* Primary color border */
+}
+
+.btn-outline-primary {
+  color: #007bff; /* Primary color */
+  border-color: #007bff; /* Primary color border */
+}
+
+.btn-outline-primary:hover {
+  background-color: #007bff; /* Primary color background on hover */
+  color: #ffffff; /* White text on hover */
+}

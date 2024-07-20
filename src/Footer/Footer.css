@@ -1,0 +1,39 @@
+/* src/styles/Footer.css */
+
+.footer {
+    background-color: #f8f9fa; /* Light gray background */
+    padding: 2rem 0; /* Padding for top and bottom */
+    border-top: 1px solid #ddd; /* Light gray border on top */
+    margin-top: 20px;
+  }
+  
+  .footer-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #007bff; /* Primary color */
+    margin-bottom: 1rem;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-links a {
+    color: #333; /* Dark text color */
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-bottom-text {
+    color: #6c757d; /* Gray text color */
+    margin-top: 1rem;
+  }
+  

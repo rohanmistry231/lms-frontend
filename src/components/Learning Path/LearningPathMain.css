@@ -1,0 +1,28 @@
+.learning-path-main {
+  margin: 20px;
+}
+
+.section-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.section-buttons button {
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.section-buttons button:hover {
+  background-color: #0056b3;
+}
+
+.section-content {
+  margin-top: 20px;
+}

@@ -1,0 +1,31 @@
+.subtechnology-list-container {
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.subtechnology-list-container h3 {
+  margin-bottom: 20px;
+}
+
+.subtechnology-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.subtechnology-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.delete-button {
+  margin-left: 10px;
+}

@@ -1,0 +1,20 @@
+/* src/components/LearningPath/Technology/TechnologyForm.css */
+.technology-form-container {
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow */
+  margin-bottom: 30px; /* Add bottom margin to create gap */
+}
+
+.technology-form-container h3 {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.mt-3 {
+  margin-top: 20px;
+}

@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Project 1",
+      "description": "Description for Project 1"
+    },
+    {
+      "id": "2",
+      "name": "Project 2",
+      "description": "Description for Project 2"
+    },
+    {
+      "id": "7eab",
+      "name": "vaibhavi",
+      "description": "sdfs"
+    }
+  ],
+  "assessments": [
+    {
+      "id": "1",
+      "name": "Assessment 1",
+      "description": "Description for Assessment 1"
+    },
+    {
+      "id": "2",
+      "name": "Assessment 2",
+      "description": "Description for Assessment 2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Category 1"
+    },
+    {
+      "id": "2",
+      "name": "Category 2"
+    }
+  ],
+  "technologies": [
+    {
+      "id": "1",
+      "name": "Technology 1"
+    },
+    {
+      "id": "2",
+      "name": "Technology 2"
+    }
+  ],
+  "subTechnologies": [
+    {
+      "id": "1",
+      "name": "Sub-Technology 1"
+    },
+    {
+      "id": "2",
+      "name": "Sub-Technology 2"
+    }
+  ]
+}

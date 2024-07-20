@@ -1,0 +1,33 @@
+/* src/components/Projects/Projects.css */
+
+.projects-main {
+  padding: 20px;
+}
+
+.projects-main h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.projects-main .lead {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.projects-main .btn-primary {
+  margin-top: 10px;
+}
+
+.projects-main h3 {
+  font-size: 2rem;
+  margin-top: 30px;
+}
+
+.projects-main p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+.projects-main .btn-secondary {
+  margin-top: 10px;
+}

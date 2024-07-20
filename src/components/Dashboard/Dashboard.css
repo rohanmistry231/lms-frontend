@@ -1,0 +1,72 @@
+/* src/components/Dashboard.css */
+
+/* Primary color */
+:root {
+  --primary-color: #007bff; /* Blue */
+  --secondary-color: #6c757d; /* Gray */
+}
+
+/* Body background */
+body {
+  background-color: #f8f9fa; /* Light gray */
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Container */
+
+/* Heading */
+h2 {
+  color: var(--primary-color);
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* Card Styling */
+.card {
+  background-color: #fff; /* White */
+  border: 1px solid #ddd; /* Light gray border */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: box-shadow 0.3s ease, transform 0.3s ease; /* Smooth transition */
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+  transform: translateY(-5px); /* Slight lift effect */
+}
+
+.card-title {
+  color: var(--primary-color);
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card-text {
+  color: #333; /* Dark gray text */
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  padding: 10px 20px; /* Improved padding */
+  font-size: 1rem; /* Font size adjustment */
+  border-radius: 4px; /* Rounded corners */
+  transition: background-color 0.3s ease, border-color 0.3s ease; /* Smooth transition */
+}
+
+.btn-primary:hover {
+  background-color: #0069d9; /* Darker shade of blue on hover */
+  border-color: #0062cc;
+}
+
+/* Link Styling */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
